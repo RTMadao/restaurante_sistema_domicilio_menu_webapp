@@ -10,7 +10,7 @@ export default new Vuex.Store({
     menu: [
       {
         nombreCategoria: 'Sopas de mondongo',
-        descripcion: 'Van acompañadas de una porcion de arroz',
+        descripcion: 'Van acompañadas de una porción de arroz',
         imagen: 'https://res.cloudinary.com/dlb2shwhr/image/upload/v1601168396/mondongo_psgxot.jpg',
         platos: [
           {
@@ -40,31 +40,31 @@ export default new Vuex.Store({
         ]
       },
       {
-        nombreCategoria: 'Sancocho trifasico',
-        descripcion: 'Van acompañadas de una porcion de arroz',
+        nombreCategoria: 'Sancocho trifásico',
+        descripcion: 'Van acompañadas de una porción de arroz',
         imagen: 'https://res.cloudinary.com/dlb2shwhr/image/upload/v1601170658/IMG_20200613_140606_ach2sw.jpg',
         platos: [
           {
-            nombre: 'Sancocho trifasico mediano',
+            nombre: 'Sancocho trifásico mediano',
             precio: 16000
           },
           {
-            nombre: 'Sancocho trifasico grande',
+            nombre: 'Sancocho trifásico grande',
             precio: 20000
           },
           {
-            nombre: 'Sancocho trifasico mediano llevar',
+            nombre: 'Sancocho trifásico mediano llevar',
             precio: 16300
           },
           {
-            nombre: 'Sancocho trifasico grande llevar',
+            nombre: 'Sancocho trifásico grande llevar',
             precio: 21000
           }      
         ]
       },
       {
         nombreCategoria: 'Bandejas de asado',
-        descripcion: 'Se elege el acompañante papas a la francesa, patacon o yuca, y cuenta con una porcion de ensalada',
+        descripcion: 'Se elige el acompañante papas a la francesa, patacón o yuca, y cuenta con una porción de ensalada',
         imagen: 'https://res.cloudinary.com/dlb2shwhr/image/upload/v1601172041/bandeja_especial_ekweie.jpg',
         platos: [
           {
@@ -95,7 +95,7 @@ export default new Vuex.Store({
       },
       {
         nombreCategoria: 'Corrientes y secos',
-        descripcion: 'De lunes a viernes, no incluye dias festivos',
+        descripcion: 'De lunes a viernes, no incluye días festivos',
         imagen: 'https://res.cloudinary.com/dlb2shwhr/image/upload/v1601176501/seco_akjubn.jpg',
         platos: [
           {
@@ -117,36 +117,36 @@ export default new Vuex.Store({
         ]
       },
       {
-        nombreCategoria: 'Porciones adicionales',
+        nombreCategoria: 'Porciónes adicionales',
         descripcion: '',
         imagen: 'https://res.cloudinary.com/dlb2shwhr/image/upload/v1601176510/porciones_hhp2xd.jpg',
         platos: [
           {
-            nombre: 'Porcion de papas a la francesa',
+            nombre: 'Porción de papas a la francesa',
             precio: 5800
           },
           {
-            nombre: 'Porcion de patacon',
+            nombre: 'Porción de patacón',
             precio: 4000
           },
           {
-            nombre: 'Porcion de papa al vapor',
+            nombre: 'Porción de papa al vapor',
             precio: 2500
           },
           {
-            nombre: 'Porcion de yuca',
+            nombre: 'Porción de yuca',
             precio: 2500
           },
           {
-            nombre: 'Porcion de arroz',
+            nombre: 'Porción de arroz',
             precio: 2000
           },
           {
-            nombre: 'Porcion de enzalada',
+            nombre: 'Porción de ensalada',
             precio: 3000
           },
           {
-            nombre: 'Porcion de carne',
+            nombre: 'Porción de carne',
             precio: 5000
           }     
         ]
